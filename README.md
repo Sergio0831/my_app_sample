@@ -3,5 +3,7 @@
 ### My task list is done
 
 - [x] **Git tutorial**
+- [x] **Git**
+
 
 :clap:
